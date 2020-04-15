@@ -1,2 +1,2 @@
 # pipeline-library
-A Jenkins Pipeline Shared Library for the CD Acceleration with CloudBees Workshop
+A Jenkins Pipeline Shared Library for the CD Acceleration with CloudBees Workshop and also Thunder Demo.
